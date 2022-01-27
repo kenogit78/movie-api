@@ -1,0 +1,8 @@
+nodemon is a devDependecy so will be needed for only development and not production
+npm start runs nodemon index.js, and nodemon runs node index.js when it detects a change, 
+this was done from the packet.json
+
+when there is a get request to /, run  the call back func
+
+browsers mainly make get requests
+postman makes all
